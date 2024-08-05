@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Generar_CURP</string>
+    <string name="buscar_curp">Search CURP</string>
+    <string name="curp">CURP</string>
+    <string name="genero">Gender:</string>
+    <string name="nombre_s">Name(s):</string>
+    <string name="primer_apellido">First surname:</string>
+    <string name="segundo_apellido">Middle surname:</string>
+    <string name="mes_de_nacimiento">Month of birth:</string>
+    <string name="dia_de_nacimiento">Day of birth:</string>
+    <string name="anio">Year:</string>
+    <string name="estado">State:</string>
+    <string name="nueva_curp">New CURP</string>
+    <string name="curp_g">CURP:</string>
+    <string name="regresar">Back</string>
+    <string name="btn_exit">Exit</string>
+    <string name="btn_Buscar">Search CURP</string>
+    <string name="select_day">Select a day</string>
+    <string name="select_month">Select a month</string>
+    <string name="select_gender">Gender</string>
+    <string name="male">M</string>
+    <string name="female">W</string>
+</resources>
